@@ -44,4 +44,25 @@ EDA entails delving into the data to address various questions regarding its cha
 - How does the distribution of students between male and female individuals vary across different marital statuses?
 - How does the distribution of students between male and female individuals vary across different age groups?
 
+## Data Analysis
+---
+Here is where I incorporated certain Data Analysis Expressions (DAX) utilized during my analysis.
+```
+Number of Countries = DISTINCTCOUNT('Form Responses 1'[Country of Residence])
+```
+```
+Number of Females = CALCULATE(COUNTROWS('Form Responses 1'), 'Form Responses 1'[Gender] = "Female")
+```
+```
+Number of Males = CALCULATE(COUNTROWS('Form Responses 1'), 'Form Responses 1'[Gender]= "Male")
+```
+```
+Total Number of Students = COUNT('Form Responses 1'[Names])
+```
+
+## Results and Findings
+---
+This is where the insights obtained from the analysis are presented. "Access my insights here:[[Dashboard Report Link](https://app.powerbi.com/view?r=eyJrIjoiOTVkY2U4YWUtYWQ1NS00M2U3LTlmODItYmM1NjAyYjRhOTkxIiwidCI6IjBlZjcwYWU3LWI3NmUtNGI4ZC04NWEzLWZlZmFmNjg4MDAxZCJ9)]"
+
+
 
