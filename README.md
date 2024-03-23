@@ -65,7 +65,7 @@ Total Number of Students = COUNT('Form Responses 1'[Names])
 ## Results and Findings
 ---
 This is where the insights obtained from the analysis are presented. "Access my insights here:[[Dashboard Report Link](https://app.powerbi.com/view?r=eyJrIjoiOTVkY2U4YWUtYWQ1NS00M2U3LTlmODItYmM1NjAyYjRhOTkxIiwidCI6IjBlZjcwYWU3LWI3NmUtNGI4ZC04NWEzLWZlZmFmNjg4MDAxZCJ9)]"
-- Among the age groups analyzed, the 25 to 29 age group exhibited the highest total number of students, with a count of 18, which was 500% higher than that of the 35 to 39 age group, which had a count of 3.
+- Among the age groups analyzed, the 25-29 age group exhibited the highest total number of students, with a count of 18, which was 500% higher than that of the 35-39 age group, which had a count of 3.
 - There is a variation in the distribution of students between male and female genders in terms of total numbers. Specifically, the total number of male students (22) was higher than that of female students (21), indicating a difference in distribution between the two genders.
 - The distribution of students varies depending on marital status. Notably, the total number of single students (32) surpassed that of married students (11), illustrating a distinction in student counts between the two marital categories.
 - The distribution of students differs across various educational qualifications. Notably, HND/BSc/B.Tech recorded the highest total number of students at 34, followed by MSc/MTech with a count of 7.
