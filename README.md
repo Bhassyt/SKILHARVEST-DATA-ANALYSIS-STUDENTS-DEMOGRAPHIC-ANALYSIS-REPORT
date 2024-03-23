@@ -33,6 +33,15 @@ In the initial data preparation phase, the following tasks were performed:
 3. Data Cleaning and formatting.
 
 **Exploratory Data Analysis**
+
 EDA entails delving into the data to address various questions regarding its characteristics, which includes:
+- What is the distribution of students across different age groups?
+- How does the distribution of students vary between male and female genders in terms of total numbers?
+- How does the total number of students differ between individuals who are single and those who are married?
+- How does the total number of students vary across different educational qualifications?
+- What is the distribution of students among different countries?
+- How does the distribution of students between single and married individuals vary across different levels of education?
+- How does the distribution of students between male and female individuals vary across different marital statuses?
+- How does the distribution of students between male and female individuals vary across different age groups?
 
 
