@@ -78,7 +78,7 @@ This is where the insights obtained from the analysis are presented. "Access my 
 ---
 
 **Conclusions**
-- **Age Group Analysis:** The 25 to 29 age group has the highest number of students, showing a significant difference compared to the 35 to 39 age group.
+- **Age Group Analysis:** The 25-29 age group has the highest number of students, showing a significant difference compared to the 35-39 age group.
 - **Gender Distribution:** There's a variation in the number of male and female students, with slightly more males than females.
 - **Marital Status:** Single individuals comprise a larger portion of students compared to married individuals.
 - **Educational Qualifications:** Students with HND/BSc/B.Tech qualifications constitute the majority, followed by those with MSc/MTech degrees.
@@ -90,7 +90,7 @@ This is where the insights obtained from the analysis are presented. "Access my 
 **Recommendations**
 
 Based on the analysis, i recommend the following actions:
-- **Targeted Programs:** Design programs tailored to the needs and preferences of the 25 to 29 age group, considering their significant representation.
+- **Targeted Programs:** Design programs tailored to the needs and preferences of the 25-29 age group, considering their significant representation.
 - **Gender-Inclusive Initiatives:** Implement initiatives to encourage gender diversity, ensuring equal opportunities for both male and female students.
 - **Support for Married Students:** Provide support services tailored to the unique challenges faced by married students to ensure their success.
 - **Education Accessibility:** Expand educational opportunities for individuals with diverse qualifications, considering the prevalence of HND/BSc/B.Tech and MSc/MTech students.
